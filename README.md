@@ -1,0 +1,1 @@
+# Application-of-PINNs-to-dynamic-oscillator-systems
